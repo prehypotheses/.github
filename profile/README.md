@@ -1,5 +1,10 @@
 Topics, Tokens, Graphs
 
+<details><summary>TRY</summary>
+<a href="https://huggingface.co/spaces/greyhypotheses/eclectic" target="_blank">launch interface</a>
+</details>
+
+
 <br>
 <br>
 
