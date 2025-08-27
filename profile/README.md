@@ -1,7 +1,7 @@
 Topics, Tokens, Graphs
 
 <details><summary>TRY</summary>
-<a href="https://huggingface.co/spaces/greyhypotheses/eclectic" target="_blank">launch interface</a>
+<a href="https://huggingface.co/spaces/greyhypotheses/detecting-eclectic" target="_blank">launch interface</a>
 </details>
 
 
