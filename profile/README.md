@@ -1,8 +1,9 @@
-Topics, Tokens, Graphs
 
-<details><summary>TRY</summary>
-<a href="https://huggingface.co/spaces/greyhypotheses/detecting-eclectic" target="_blank">launch interface</a>
-</details>
+[The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
+
+
+### About
+This hub hosts the repositories of a token classification modelling task in development.  Readers may interact with the latest model via a  [simple open interface](https://d38vscvq5ccchn.cloudfront.net/src/c-eclectic-app.html).  At present, the early stopping setting is low, too low; this will change. 
 
 
 <br>
