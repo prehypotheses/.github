@@ -7,7 +7,7 @@ This hub hosts the repositories of a token classification modelling task in deve
 The `special` package reads-in the 
 
 
-The tokenization class for the T5 architecture expects a **DatasetDict** of three partitions, i.e., keys: `train`, `validation`, `test`.  For example
+The tokenization class for the T5 architecture expects a **datasets.dataset_dict.DatasetDict** of three partitions, i.e., keys: `train`, `validation`, `test`.  For example
 
 ```
 DatasetDict({
