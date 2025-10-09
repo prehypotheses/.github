@@ -6,7 +6,7 @@ This hub hosts the repositories of a token classification modelling task in deve
 
 ## Expected Structures
 
-The raw/original Supervised Batch of FEW-NERD is a **datasets.dataset_dict.DatasetDict**. It has three partitions:
+The raw/original Supervised Batch of FEW-NERD is a <a href="https://huggingface.co/docs/datasets/package_reference/main_classes#datasets.DatasetDict" target="_blank">datasets.dataset_dict.DatasetDict</a>. It has three partitions:
 
 ```
 DatasetDict({
