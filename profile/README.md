@@ -25,8 +25,9 @@ DatasetDict({
 })
 ```
 
-Herein, *'ner_tags'* encodes the coarse grain tags/classes, whilst *'fine_ner_tags'* encodes the fine grain tags/classes.  There are 9 distinct coarse grain classes, and 67 distinct fine grain classes.  The `special` package reads-in the raw/original **datasets.dataset_dict.DatasetDict** and creates a new DatasetDict that focuses on a small selection of tags.  the selection of tags in focus are outlined <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-data-profiles.html" target="_blank">here</a>; the tags are stored in field named 'fine_ner_tags', and the structure of `special's` output is
+Herein, *'ner_tags'* encodes the coarse grain tags/classes, whilst *'fine_ner_tags'* encodes the fine grain tags/classes.  There are 9 distinct coarse grain classes, and 67 distinct fine grain classes.  
 
+The <a href="https://github.com/prehypotheses/special">special</a> package reads-in the raw/original DatasetDict and **creates a new DatasetDict** that focuses on a small selection of tags.  The <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-data-profiles.html" target="_blank">online hub</a> automatically outlines the selection of tags in focus.  **Within the new  DatasetDict** the selection of tags are stored in field named 'fine_ner_tags', and the structure of <a href="https://github.com/prehypotheses/special">special's</a> output is
 
 ```
 DatasetDict({
