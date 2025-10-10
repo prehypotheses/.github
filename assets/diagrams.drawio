@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-10-10T12:56:56.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="ydqzHD82TwjM65-2HDVq" version="22.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2025-10-10T12:58:17.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="O45PBEHG3GFgiP8jUyOJ" version="22.1.2" type="device" pages="3">
   <diagram id="JrTrDJ6YejvNL-s3fTGp" name="continuous development: model">
     <mxGraphModel dx="1098" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -275,6 +275,9 @@
             <mxGeometry x="840" y="283" width="43" height="43" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kpoeP0kTsIrjLEHz3J4J-20" value="An MLflow &lt;a href=&quot;https://mlflow.org/docs/latest/ml/tracking/backend-stores&quot;&gt;backend store database&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="730" y="780" width="290" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
