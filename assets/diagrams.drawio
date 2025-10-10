@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-10-10T12:49:29.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="BolBYJu2pFs9CpGpkxsC" version="22.1.2" type="device" pages="3">
+<mxfile host="Electron" modified="2025-10-10T12:56:56.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="ydqzHD82TwjM65-2HDVq" version="22.1.2" type="device" pages="3">
   <diagram id="JrTrDJ6YejvNL-s3fTGp" name="continuous development: model">
     <mxGraphModel dx="1098" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1390" pageHeight="980" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           <mxGeometry x="650" y="307" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpoeP0kTsIrjLEHz3J4J-5" value="fine-tunes a &lt;b&gt;t5&lt;/b&gt; large language model architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;" vertex="1" parent="1">
-          <mxGeometry x="380" y="395" width="130" height="30" as="geometry" />
+          <mxGeometry x="400" y="405" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpoeP0kTsIrjLEHz3J4J-6" value="determines the best model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat Brush;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat%2BBrush;" vertex="1" parent="1">
           <mxGeometry x="667" y="582" width="80" height="30" as="geometry" />
@@ -267,6 +267,14 @@
         <mxCell id="kpoeP0kTsIrjLEHz3J4J-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kpoeP0kTsIrjLEHz3J4J-7" target="ArCbtQrXZpDngY19tHVt-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kpoeP0kTsIrjLEHz3J4J-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="690" width="24" height="24.96" as="geometry" />
+        </mxCell>
+        <UserObject label="MLflow Backend &lt;br style=&quot;font-size: 13px;&quot;&gt;Store Database" link="https://mlflow.org/docs/latest/ml/tracking/backend-stores" id="kpoeP0kTsIrjLEHz3J4J-19">
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=13;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;rotation=0;fontFamily=Asap;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DAsap;" vertex="1" parent="1">
+            <mxGeometry x="840" y="283" width="43" height="43" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
