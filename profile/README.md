@@ -86,7 +86,7 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 
 At a basic level, we may deploy the token classification model within a setting akin to the on below.
 
-<img src="a-simple-system.png" alt="A simple system">
+<img src="a-simple-system.png" alt="A simple system" width="410.5" height="219">
 
 
 <br>
