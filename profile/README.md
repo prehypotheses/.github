@@ -96,8 +96,12 @@ and
 * Continuous cost analysis.
 
 <br>
+<br>
 
 <img src="a-simple-system.png" alt="A simple system" width="656.8" height="350.4">
+
+<br>
+<br>
 
 <br>
 <br>
@@ -105,8 +109,9 @@ and
 The architecture diagram below is an adaptation of an Amazon Web Services illustration.  It expands on the model training/re-training aspects; including the capturing of new data in aid of re-training.
 
 <br>
+<br>
 
-<img src="architecture.png" alt="Architecture" width="783.2" height="433.6">
+<img src="architecture.png" alt="Architecture" width="685.3" height="379.4">
 
 <br>
 <br>
