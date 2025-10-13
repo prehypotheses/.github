@@ -82,7 +82,7 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 <br>
 <br>
 
-#### Environment Notes
+#### In Action
 
 At a basic level, we may deploy the token classification model within a setting akin to the one below.  Important considerations
 
