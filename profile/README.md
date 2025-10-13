@@ -82,6 +82,23 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 <br>
 <br>
 
+#### Environment Notes
+
+At a basic level, we may deploy the token classification model within a setting akin to the on below.
+
+<img src="a-simple-system.png" alt="A simple system">
+
+
+<br>
+<br>
+
+The architecture diagram below is an adaptation of an Amazon Web Services illustration.  It expands on the model training/re-training aspects; including the capturing of new data in aid of re-training.
+
+<img src="architecture.png" alt="Architecture">
+
+<br>
+<br>
+
 <br>
 <br>
 
