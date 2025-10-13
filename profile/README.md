@@ -106,7 +106,7 @@ and
 <br>
 <br>
 
-The architecture diagram below is an adaptation of an Amazon Web Services illustration.  It expands on the model training/re-training aspects; including the capturing of new data in aid of re-training.
+The architecture diagram below is <a href="https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/ml-lifecycle-architecture-diagram.html" target="_blank">courtesy of Amazon Web Services</a>.  It expands on the model training/re-training aspects; including the capturing of new data in aid of re-training.
 
 <br>
 <br>
