@@ -19,6 +19,7 @@ This hub hosts the repositories of a token classification modelling task in deve
   </colgroup>
   <tr><td><i class="fa-brands fa-git-alt"></i>data</td><td>Retrieves the modelling data and delivers it to a depository.</td></tr>
   <tr><td>special</td><td>This package resets the tags/classes of the raw modelling data.</td></tr>
+<tr><td>t5</td><td>Fine-tunes a T5 large language model architecture for token classification purposes, vis-à-vis the aforementioned data.</td></tr>
 </table>
 
 <br>
