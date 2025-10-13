@@ -94,7 +94,7 @@ At a basic level, we may deploy the token classification model within a setting 
 
 The architecture diagram below is an adaptation of an Amazon Web Services illustration.  It expands on the model training/re-training aspects; including the capturing of new data in aid of re-training.
 
-<img src="architecture.png" alt="Architecture">
+<img src="architecture.png" alt="Architecture" width="484" height="271">
 
 <br>
 <br>
