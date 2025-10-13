@@ -14,7 +14,7 @@ This hub hosts the repositories of a token classification modelling task in deve
   </colgroup>
   <tr><td>data</td><td>Retrieves the modelling data and delivers it to a depository.</td></tr>
   <tr><td>special</td><td>This package resets the tags/classes of the raw modelling <br>data.</td></tr>
-<tr><td>t5</td><td>Fine-tunes a T5 large language model architecture for token <br>classification purposes, vis-à-vis the aforementioned data.  At present, <br>it is associated with a <a href="https://mlflow.org/docs/latest/ml/tracking/backend-stores">MLflow Backend Store Database</a></td></tr>
+<tr><td>t5</td><td>Fine-tunes a T5 large language model architecture for token <br>classification purposes, vis-à-vis the aforementioned data.  At <br> present, it is associated with a <a href="https://mlflow.org/docs/latest/ml/tracking/backend-stores">MLflow Backend Store Database</a></td></tr>
 <tr><td>numerics</td><td>Evaluates the results of one or more fine-tuning packages.  It <br>selects the best for inference, etc., purposes.</td></tr>
 </table>
 
@@ -77,7 +77,7 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 <br>
 <br>
 
-#### In Action
+#### In Context
 
 At a basic level, we may deploy the token classification model within a setting akin to the one below.  Important considerations
 
