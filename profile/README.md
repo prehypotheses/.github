@@ -84,12 +84,20 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 
 #### Environment Notes
 
-At a basic level, we may deploy the token classification model within a setting akin to the on below.
+At a basic level, we may deploy the token classification model within a setting akin to the one below.  Important considerations
+
+* A named-entity-tagging module; <a href="https://arunmozhi.in/ner-annotator/">an example of an entity recognition tagging tool</a>.
+* Colour coded entities with tooltips vis-à-vis underpinning rules, regulations, etc.
+* A model fine-tuning & retraining workflow.
+
+and
+
+* The wherewithal to continuously evaluate performance via analysis of original redactions & corrected texts.
+* Continuous cost analysis.
 
 <br>
 
 <img src="a-simple-system.png" alt="A simple system" width="656.8" height="350.4">
-
 
 <br>
 <br>
