@@ -89,6 +89,9 @@ At a basic level, we may deploy the token classification model within a setting 
 * A named-entity-tagging module; <a href="https://arunmozhi.in/ner-annotator/">an example of an entity recognition tagging tool</a>.
 * Colour coded entities with tooltips vis-à-vis underpinning rules, regulations, etc.
 * A model fine-tuning & retraining workflow.
+* Documents, cases, etc
+  * Lineage.
+  * Due date alerts.
 
 and
 
