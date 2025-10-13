@@ -3,11 +3,13 @@
 This hub hosts the repositories of a token classification modelling task in development.  Readers may interact with the latest model via a  <a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>; note, training incomplete, i.e., stopped prematurely.
 
 <br>
+<br>
 
-**Packages/Repositories**
+#### Packages/Repositories
 
 <img src="stages.png" alt="stages">
 
+<br>
 <br>
 
 <table style="width: 80%; margin-left: 1.25rem; margin-right: auto; margin-top: 35px;">
@@ -20,8 +22,9 @@ This hub hosts the repositories of a token classification modelling task in deve
 </table>
 
 <br>
+<br>
 
-**Structures**
+#### Structures
 
 The raw/original Supervised Batch of FEW-NERD is a <a href="https://huggingface.co/docs/datasets/package_reference/main_classes#datasets.DatasetDict" target="_blank">datasets.dataset_dict.DatasetDict</a>. It has three partitions:
 
