@@ -4,7 +4,20 @@ This hub hosts the repositories of a token classification modelling task in deve
 
 <br>
 
-## Expected Structures
+**Packages/Repositories**
+
+<table style="width: 80%; margin-left: 1.25rem; margin-right: auto; margin-top: 35px;">
+  <colgroup>
+    <col span="1" style="width: 21.5%;">
+    <col span="1" style="width: 47.5%;">
+  </colgroup>
+  <tr><td><i class="fa-brands fa-git-alt"></i>data</td><td>Retrieves the modelling data and delivers it to a depository.</td></tr>
+  <tr><td>special</td><td>This package resets the tags/classes of the raw modelling data.</td></tr>
+</table>
+
+<br>
+
+**Structures**
 
 The raw/original Supervised Batch of FEW-NERD is a <a href="https://huggingface.co/docs/datasets/package_reference/main_classes#datasets.DatasetDict" target="_blank">datasets.dataset_dict.DatasetDict</a>. It has three partitions:
 
