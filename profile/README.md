@@ -6,6 +6,10 @@ This hub hosts the repositories of a token classification modelling task in deve
 
 **Packages/Repositories**
 
+<img src="stages.png" alt="stages">
+
+<br>
+
 <table style="width: 80%; margin-left: 1.25rem; margin-right: auto; margin-top: 35px;">
   <colgroup>
     <col span="1" style="width: 21.5%;">
