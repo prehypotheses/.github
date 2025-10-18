@@ -7,15 +7,17 @@ This hub hosts the repositories of a token classification modelling task in deve
 
 #### Packages/Repositories
 
+<a href="https://github.com/orgs/prehypotheses/repositories" target="_blank">repositories</a>
+
 <table style="width: 80%; margin-left: 1.25rem; margin-right: auto; margin-top: 35px;">
   <colgroup>
     <col span="1" style="width: 21.5%;">
     <col span="1" style="width: 47.5%;">
   </colgroup>
-  <tr><td>data</td><td>Retrieves the modelling data and delivers it to a depository.</td></tr>
-  <tr><td>special</td><td>This package resets the tags/classes of the raw modelling <br>data.</td></tr>
-<tr><td>t5</td><td>Fine-tunes a T5 large language model architecture for token <br>classification purposes, vis-à-vis the aforementioned data.  At <br> present, it is associated with a <a href="https://mlflow.org/docs/latest/ml/tracking/backend-stores">MLflow Backend Store Database</a></td></tr>
-<tr><td>numerics</td><td>Evaluates the results of one or more fine-tuning packages.  It <br>selects the best for inference, etc., purposes.</td></tr>
+  <tr><td><a href="https://github.com/prehypotheses/data" target="_blank">data</a></td><td>Retrieves the modelling data and delivers it to a depository.</td></tr>
+  <tr><td><a href="https://github.com/prehypotheses/special" target="_blank">special</a></td><td>This package resets the tags/classes of the raw modelling <br>data.</td></tr>
+<tr><td><a href="https://github.com/prehypotheses/t5" target="_blank">t5</a></td><td>Fine-tunes a T5 large language model architecture for token <br>classification purposes, vis-à-vis the aforementioned data.  At <br> present, it is associated with a <a href="https://mlflow.org/docs/latest/ml/tracking/backend-stores">MLflow Backend Store Database</a></td></tr>
+<tr><td><a href="https://github.com/prehypotheses/metrics" target="_blank">metrics</a></td><td>Evaluates the results of one or more fine-tuning packages.  It <br>selects the best for inference, etc., purposes.</td></tr>
 </table>
 
 <br>
