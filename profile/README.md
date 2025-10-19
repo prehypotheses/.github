@@ -7,7 +7,16 @@ This hub hosts the repositories of a token classification modelling task in deve
 
 #### Packages/Repositories
 
-<a href="https://github.com/orgs/prehypotheses/repositories" target="_blank">repositories</a>
+<br>
+
+&nbsp; &nbsp; <a href="https://github.com/orgs/prehypotheses/repositories" target="_blank">repositories</a>
+
+<img src="repositories.png" alt="repositories">
+
+
+
+<br>
+<br>
 
 <table style="width: 80%; margin-left: 1.25rem; margin-right: auto; margin-top: 35px;">
   <colgroup>
