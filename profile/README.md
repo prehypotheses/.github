@@ -31,6 +31,10 @@ This hub hosts the repositories of a token classification modelling task in deve
 </table>
 
 <br>
+
+<b>Additionally</b>, the repository of the <a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple-open-interface application</a> is <a href="https://github.com/prehypotheses/interface-external" target="_external">interface-external</a>.  Hosting is via <a href="https://huggingface.co/docs/hub/spaces" target="_blank">huggingface.co</a>, therefore the repository automatically delivers assets to <a href="https://huggingface.co/docs/hub/spaces" target="_blank">huggingface.co</a> via <a href="https://docs.github.com/en/actions" target="_blank">GitHub Actions</a>.
+
+<br>
 <br>
 
 #### Structures
