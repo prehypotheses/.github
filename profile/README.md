@@ -5,7 +5,7 @@ This hub hosts the repositories of a token classification modelling task in deve
 <br>
 <br>
 
-#### Packages/Repositories
+### PACKAGES/REPOSITORIES
 
 <br>
 
@@ -37,7 +37,7 @@ This hub hosts the repositories of a token classification modelling task in deve
 <br>
 <br>
 
-#### Structures
+### STRUCTURES
 
 The raw/original Supervised Batch of FEW-NERD is a <a href="https://huggingface.co/docs/datasets/package_reference/main_classes#datasets.DatasetDict" target="_blank">datasets.dataset_dict.DatasetDict</a>. It has three partitions:
 
@@ -93,7 +93,7 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 <br>
 <br>
 
-#### In Context
+### IN CONTEXT
 
 At a basic level, we may deploy the token classification model within a setting akin to the one below.  Important considerations
 
