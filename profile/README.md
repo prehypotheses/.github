@@ -1,6 +1,6 @@
 <br>
 
-This hub hosts the repositories of a token classification modelling task in development.  Readers may interact with the latest model via a  <a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>; note, training incomplete, i.e., stopped prematurely.
+This hub hosts the repositories of a token classification modelling task in development.  Readers may interact with the latest model via a  <a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>, and study some details via the <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html">online-hub/dynamic-model-card</a>; <b>note</b>, training incomplete, i.e., stopped prematurely.
 
 <br>
 <br>
