@@ -27,6 +27,7 @@ This hub hosts the repositories of a token classification modelling task in deve
   <tr><td><a href="https://github.com/prehypotheses/special" target="_blank">special</a></td><td>This package resets the tags/classes of the raw modelling <br>data.</td></tr>
 <tr><td><a href="https://github.com/prehypotheses/t5" target="_blank">t5</a></td><td>Fine-tunes a T5 large language model architecture for token <br>classification purposes, vis-à-vis the aforementioned data.  At <br> present, it is associated with a <a href="https://mlflow.org/docs/latest/ml/tracking/backend-stores">MLflow Backend Store Database</a></td></tr>
 <tr><td><a href="https://github.com/prehypotheses/metrics" target="_blank">metrics</a></td><td>Evaluates the results of one or more fine-tuning packages.  It <br>selects the best for inference, etc., purposes.</td></tr>
+<tr><td><a href="https://github.com/prehypotheses/configurations" target="_blank">configurations</a></td><td>Hosts overarching and repository/package specific configurations; <a href="https://github.com/prehypotheses/configurations" target="_blank">README</a> notes.  The notes therein also outline <a href="https://github.com/prehypotheses/configurations#github--assets-delivery" target="_blank">automatic delivery of assets to a cloud platform</a>, and <a href="https://github.com/prehypotheses/configurations#cloud-platforms--secure-services-interactions" target="_blank">secure services interactions</a>.</td></tr>
 </table>
 
 <br>
@@ -107,6 +108,7 @@ and
 <br>
 <br>
 
+<!--suppress CheckImageSize -->
 <img src="a-simple-system.png" alt="A simple system" width="656.8" height="350.4">
 
 <br>
@@ -120,6 +122,7 @@ The architecture diagram below is <a href="https://docs.aws.amazon.com/wellarchi
 <br>
 <br>
 
+<!--suppress CheckImageSize -->
 <img src="architecture.png" alt="Architecture" width="685.3" height="379.4">
 
 <br>
