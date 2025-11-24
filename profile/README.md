@@ -1,19 +1,19 @@
+Token Classification: Eclectic [<a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>]
+
+<a href="https://theartificialintelligenceunit.github.io/abstracts/sections/few/" target="_blank">README</a>
+
+
+<br>
 <br>
 
-This hub hosts the repositories of a token classification modelling task in development.  Readers may interact with the latest model via a  <a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>, and study some details via the <a href="https://d3ju6iarczw32h.cloudfront.net/src/c-eclectic-introduction.html">online-hub/dynamic-model-card</a>; <b>note</b>, training incomplete, i.e., stopped prematurely.
-
-<br>
-<br>
 
 ### PACKAGES/REPOSITORIES
 
+This hub hosts the <a href="https://github.com/orgs/prehypotheses/repositories" target="_blank">repositories</a> of a token classification, etc., project.
+
 <br>
 
-&nbsp; &nbsp; <a href="https://github.com/orgs/prehypotheses/repositories" target="_blank">repositories</a>
-
 <img src="repositories.png" alt="repositories">
-
-
 
 <br>
 <br>
