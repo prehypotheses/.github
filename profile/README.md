@@ -1,6 +1,6 @@
 Token Classification: Eclectic [<a href="https://greyhypotheses-detecting-eclectic.hf.space/" target="_blank">simple open interface</a>]
 
-<a href="https://theartificialintelligenceunit.github.io/abstracts/site/sections/few/" target="_blank">README</a>
+<a href="https://theartificialintelligenceunit.github.io/abstracts/sections/few/" target="_blank">README</a>
 
 <br>
 <br>
