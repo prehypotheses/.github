@@ -6,6 +6,7 @@ Token Classification: Eclectic [<a href="https://greyhypotheses-detecting-eclect
 <br>
 <br>
 
+<details><summary><b>Notes</b></summary>
 
 ### PACKAGES/REPOSITORIES
 
@@ -130,8 +131,8 @@ The architecture diagram below is <a href="https://docs.aws.amazon.com/wellarchi
 <!--suppress CheckImageSize -->
 <img src="architecture.png" alt="Architecture" width="685.3" height="379.4">
 
-<br>
-<br>
+
+</details>
 
 <br>
 <br>
@@ -142,13 +143,5 @@ The architecture diagram below is <a href="https://docs.aws.amazon.com/wellarchi
 <br>
 <br>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>
+<br>
