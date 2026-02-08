@@ -3,7 +3,6 @@ Token Classification: Eclectic [<a href="https://greyhypotheses-detecting-eclect
 <a href="https://theartificialintelligenceunit.github.io/abstracts/site/sections/few/" target="_blank">README</a>
 
 <br>
-<br>
 
 <details><summary><b>Notes</b></summary>
 
