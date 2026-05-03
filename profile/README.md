@@ -97,7 +97,7 @@ Each list of *'tokens'* represents a sentence or paragraph; the corresponding li
 
 At a basic level, we may deploy the token classification model within a setting akin to the one below.  Important considerations
 
-* A named-entity-tagging module/tool, e.g., <a href="https://labelstud.io" target="_blank">Label Studio</a>[^1].
+* A named-entity-tagging module/tool, e.g., <a href="https://labelstud.io" target="_blank">Label Studio</a> [^1].
 * Colour coded entities with tooltips vis-à-vis underpinning rules, regulations, etc.
 * A model fine-tuning & retraining workflow.
 * Documents, cases, etc
@@ -145,7 +145,7 @@ The architecture diagram below is <a href="https://docs.aws.amazon.com/wellarchi
 <br>
 
 
-[^1]: For a quick exploration of entity labelling, text annotation, try <a href="https://arunmozhi.in/ner-annotator/">this simple entity recognition tagging tool</a>
+[^1]: Before trying <a href="https://labelstud.io" target="_blank">Label Studio</a>, you may briefly explore entity labelling, text annotation, <a href="https://arunmozhi.in/ner-annotator/">via this simple entity recognition tagging tool</a>
 
 <br>
 <br>
